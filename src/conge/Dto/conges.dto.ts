@@ -1,6 +1,4 @@
-import { Transform } from "class-transformer";
 import { IsNotEmpty, IsEmail } from "class-validator";
-import * as moment from 'moment';
 
 export class CongeDto {
 
