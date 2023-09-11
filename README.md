@@ -32,6 +32,15 @@
 $ npm install
 ```
 
+## Running docker
+
+```bash
+# console
+$ cd zeebe-docker-compose
+$ cd simple-monitor
+$ docker-compose up
+```
+
 ## Running the app
 
 ```bash
